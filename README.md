@@ -12,7 +12,9 @@ MENTOR:Muzammil Ahmed
 #PROJECT OVERVIEW
 Project Overview: To-Do List Management
 
-![image](https://github.com/user-attachments/assets/3b241e25-6408-4155-98fe-3b38baa4ca46)
+
+![image](https://github.com/user-attachments/assets/805423ba-1d9c-43e9-acfe-f312e9eaf6be)
+
 
 
 Project Overview: To-Do List Application
